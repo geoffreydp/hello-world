@@ -1,2 +1,3 @@
 # hello-world
-hi there
+Hi there,
+This is a piece of text added by Geoff
